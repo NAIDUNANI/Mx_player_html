@@ -1,0 +1,24 @@
+.div1{
+    display: inline-block;
+    color: aliceblue;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    vertical-align: middle;
+}
+.mx{
+    font-size: larger;
+    display: inline;
+}
+ul{
+    display: inline;
+}
+li{
+    display: inline;
+    padding-left: 15px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    padding-bottom: 70px;
+}
